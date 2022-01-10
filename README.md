@@ -12,3 +12,5 @@ Alle Dateien, die ein Client sich von dem Server holen kann, liegen in dem Ordne
 Der HTTP-Client verfügt über eine grafische Oberfläche. Dort kann der Benutzer die Adresse und den Port des Servers auswählen. Dann gibt er die Datei an, die er anfordern möchte. Er schickt dann eine GET-Anfrage an den Server. Die Antwort wird danach dem Benutzer gezeigt. Bekommt der Client nach 5 Sekunden keine Antwort, gibt es einen Timeout-Fehler.
 
 ![Screenshot vom HTTP-Client](assets/screenshots/http_client_screenshot.png)
+## Klassendiagramm
+![Klassendiagramm](assets/class_diagrams/http_server_client_class_diagram.png)
